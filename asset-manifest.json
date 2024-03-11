@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ezenMovies/static/css/main.7583ce80.css",
-    "main.js": "/ezenMovies/static/js/main.c511ac8d.js",
+    "main.js": "/ezenMovies/static/js/main.557f39dd.js",
     "index.html": "/ezenMovies/index.html",
     "main.7583ce80.css.map": "/ezenMovies/static/css/main.7583ce80.css.map",
-    "main.c511ac8d.js.map": "/ezenMovies/static/js/main.c511ac8d.js.map"
+    "main.557f39dd.js.map": "/ezenMovies/static/js/main.557f39dd.js.map"
   },
   "entrypoints": [
     "static/css/main.7583ce80.css",
-    "static/js/main.c511ac8d.js"
+    "static/js/main.557f39dd.js"
   ]
 }
